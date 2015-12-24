@@ -1,0 +1,7 @@
+dataset available at : https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#
+Research document http://www.hindawi.com/journals/bmri/2014/781670/
+
+Topic:
+To avoid unnecessary readmission hospitals want to predict if a patient is likely to come back. Given information from the first diagnoses they want to predict if th epatient will come back in the next 30 days or not. This issue occurs in multiple hospitals but due to restriction on he data they can share we would like to be able to train a model on each of the data of the hospital and get the best possible accuracy.
+
+
